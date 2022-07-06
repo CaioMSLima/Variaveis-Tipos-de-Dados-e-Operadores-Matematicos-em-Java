@@ -3,7 +3,7 @@ public class dados {
         
         // So tem dados primitivos exceto String
         // Quantidade caracterres ou qtd de numeros que um determonado tipo de dado pode aguentar
-        //esta eem ordem de menor capaciade(byte) ate o de maior capacidade(doble)
+        //esta em ordem de menor capaciade(byte) ate o de maior capacidade(doble)
 
         byte b1 = 10; //so aguneta 3 caracteres
         byte b2 = 20;
