@@ -5,11 +5,11 @@ public class dados {
         // Quantidade caracterres ou qtd de numeros que um determonado tipo de dado pode aguentar
         //esta em ordem de menor capaciade(byte) ate o de maior capacidade(doble)
 
-        byte b1 = 10; //so aguneta 3 caracteres
+        byte b1 = 10; //so aguneta 2 caracteres
         byte b2 = 20;
 
         short s1 = 20000;
-        // short s2 = 400000; da erropq passou do limite do short
+        // short s2 = 400000; da erron pq passou do limite do short
 
         // int i1 = -10000000000; passou do valor maximo que o int pode suportar
         int i2 = 28500;
@@ -38,9 +38,8 @@ public class dados {
         char c1 = 'W';
         // char c2= 'Tw'; o char so suporta um caractere
         char c3 = '\u0057';
-        // Esse valor siginifica o W ou esses caracters representao um por isso ele nao
-        // da erro
-
+        // Esse valor siginifica o W ou esses caracters representao um por isso ele nao  da err
+        
         // String suportao mais de um caractere
         String st1 = "Coringa";
         String st2 = "Venon";
